@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Login Screen/LoginScreen.unity
+    guid: 3afef324e0932e9439121d4792bb471d
+  - enabled: 1
+    path: Assets/Jukebox/JukeBox.unity
+    guid: f68074ddecdd579429d71a9db179fd70
+  - enabled: 1
+    path: Assets/Introduction/Introduction.unity
+    guid: e323b0c94b34e4f41ada611e54574ca9
+  - enabled: 1
+    path: Assets/Game/Levels/Lake/Lake.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Game/Combat/Combat.unity
+    guid: 14f60950f7ac094439fc0b7690e3c5a7
+  - enabled: 1
+    path: Assets/Game/Combat/Defeat Scene/Defeat.unity
+    guid: 879de3906e941f44f944c82b63de2ccb
+  - enabled: 1
+    path: Assets/End/DemoEnd.unity
+    guid: 4690944398af6824d989c07aa0f2f91b
+  m_configObjects: {}

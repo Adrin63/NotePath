@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trunk
+  - Letter
+  - CombatTrigger
+  - BossTrigger
+  - AttackNote
+  - Collider50
+  - Collider100
+  - Limit
+  - DefenseNote
+  - FxTemporaire
+  - Object
+  - TrunkObstacle
+  - NPC
+  - CombatSceneManager
+  - SavedData
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Signs
+  - NPCs
+  - Obstacle
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 2242213611
+    locked: 0
+  - name: Trunk
+    uniqueID: 3900826921
+    locked: 0
+  - name: Objects
+    uniqueID: 2301160539
+    locked: 0
+  - name: Player
+    uniqueID: 3622147641
+    locked: 0
+  - name: BattleBackground
+    uniqueID: 4159200187
+    locked: 0
+  - name: BattleParticles
+    uniqueID: 1601144807
+    locked: 0
+  - name: BattleCharacters
+    uniqueID: 555771193
+    locked: 0
+  - name: BattleUI
+    uniqueID: 2750886089
+    locked: 0

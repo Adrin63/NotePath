@@ -1,0 +1,1452 @@
+fileFormatVersion: 2
+guid: 8239262efe676264084267569b7420db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -638487567531368362
+    second: Clorfos3_0
+  - first:
+      213: -3896315084167972652
+    second: Clorfos3_1
+  - first:
+      213: -8611492394673108359
+    second: Clorfos3_2
+  - first:
+      213: 4690515041633351120
+    second: Clorfos3_3
+  - first:
+      213: 934837948164129432
+    second: Clorfos3_4
+  - first:
+      213: 6578946476439922991
+    second: Clorfos3_5
+  - first:
+      213: -8968835350374603774
+    second: Clorfos3_6
+  - first:
+      213: -4386633956945595774
+    second: Clorfos3_7
+  - first:
+      213: 7704077301087908974
+    second: Clorfos3_8
+  - first:
+      213: -1480142583048017433
+    second: Clorfos3_9
+  - first:
+      213: 3424850132438842899
+    second: Clorfos3_10
+  - first:
+      213: -400090536093760737
+    second: Clorfos3_11
+  - first:
+      213: -6852522310174059876
+    second: Clorfos3_12
+  - first:
+      213: 3762332186689275286
+    second: Clorfos3_13
+  - first:
+      213: -1802166308822758912
+    second: Clorfos3_14
+  - first:
+      213: 5214670771659677467
+    second: Clorfos3_15
+  - first:
+      213: -1563394289068225657
+    second: Clorfos3_16
+  - first:
+      213: 3325546589511135135
+    second: Clorfos3_17
+  - first:
+      213: -4600862006795573587
+    second: Clorfos3_18
+  - first:
+      213: 4128818093420282691
+    second: Clorfos3_19
+  - first:
+      213: 1431322191015872800
+    second: Clorfos3_20
+  - first:
+      213: 6196399289139529358
+    second: Clorfos3_21
+  - first:
+      213: 57872595306428396
+    second: Clorfos3_22
+  - first:
+      213: 6356600949916458067
+    second: Clorfos3_23
+  - first:
+      213: -2584248428580830493
+    second: Clorfos3_24
+  - first:
+      213: -1316427281198674433
+    second: Clorfos3_25
+  - first:
+      213: -3773799467050081600
+    second: Clorfos3_26
+  - first:
+      213: 684152695468023237
+    second: Clorfos3_27
+  - first:
+      213: 6728137160032657284
+    second: Clorfos3_28
+  - first:
+      213: -6162302058319177268
+    second: Clorfos3_29
+  - first:
+      213: -2880413957239390577
+    second: Clorfos3_30
+  - first:
+      213: 6599736395361255095
+    second: Clorfos3_31
+  - first:
+      213: -734498114697773608
+    second: Clorfos3_32
+  - first:
+      213: -3062153272809020405
+    second: Clorfos3_33
+  - first:
+      213: 1498243128246534710
+    second: Clorfos3_34
+  - first:
+      213: 2779550787104050026
+    second: Clorfos3_35
+  - first:
+      213: 3727649974260213382
+    second: Clorfos3_36
+  - first:
+      213: 8225840924993937041
+    second: Clorfos3_37
+  - first:
+      213: 6834104995597993167
+    second: Clorfos3_38
+  - first:
+      213: 1858589852318049045
+    second: Clorfos3_39
+  - first:
+      213: 4169462593854295249
+    second: Clorfos3_40
+  - first:
+      213: 4442119234323830590
+    second: Clorfos3_41
+  - first:
+      213: 4626533448333399748
+    second: Clorfos3_42
+  - first:
+      213: -625623846753817555
+    second: Clorfos3_43
+  - first:
+      213: 1738653991161327543
+    second: Clorfos3_44
+  - first:
+      213: -1679885862783785441
+    second: Clorfos3_45
+  - first:
+      213: 3959068503379422489
+    second: Clorfos3_46
+  - first:
+      213: -3075402588738269713
+    second: Clorfos3_47
+  - first:
+      213: 6304481719056810260
+    second: Clorfos3_48
+  - first:
+      213: 7434645617619916966
+    second: Clorfos3_49
+  - first:
+      213: 3476322058499317307
+    second: Clorfos3_50
+  - first:
+      213: 7070641139883389558
+    second: Clorfos3_51
+  - first:
+      213: 2027834360987739878
+    second: Clorfos3_52
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Clorfos3_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1918
+        width: 359
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6502acfa0f2a327f0800000000000000
+      internalID: -638487567531368362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1918
+        width: 359
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8fb2313128de9c0800000000000000
+      internalID: -3896315084167972652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_2
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1918
+        width: 360
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a088dea45dd7880800000000000000
+      internalID: -8611492394673108359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_3
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1918
+        width: 359
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5be26349e081140800000000000000
+      internalID: 4690515041633351120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_4
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1918
+        width: 764
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892c0ee292639fc00800000000000000
+      internalID: 934837948164129432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_5
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 1918
+        width: 361
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29628ca6fc1d4b50800000000000000
+      internalID: 6578946476439922991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_6
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 1918
+        width: 359
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204a4fb84cb488380800000000000000
+      internalID: -8968835350374603774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_7
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 1920
+        width: 361
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282779458ab8f13c0800000000000000
+      internalID: -4386633956945595774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1534
+        width: 360
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64be75cc716aea60800000000000000
+      internalID: 7704077301087908974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1534
+        width: 361
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e96e70b92a757be0800000000000000
+      internalID: -1480142583048017433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_10
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1535
+        width: 360
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e77f0cc03878f20800000000000000
+      internalID: 3424850132438842899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_11
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1534
+        width: 361
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13c226f6c7927af0800000000000000
+      internalID: -400090536093760737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_12
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1534
+        width: 361
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92d2aed343f6e0a0800000000000000
+      internalID: -6852522310174059876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_13
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1535
+        width: 357
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69502aaa03d763430800000000000000
+      internalID: 3762332186689275286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_14
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 1534
+        width: 358
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a41785a4b6df6e0800000000000000
+      internalID: -1802166308822758912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_15
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 1534
+        width: 359
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f1365307b3e5840800000000000000
+      internalID: 5214670771659677467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_16
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 1534
+        width: 359
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bc6346d25bd4ae0800000000000000
+      internalID: -1563394289068225657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1150
+        width: 360
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fa2dfe007b62e20800000000000000
+      internalID: 3325546589511135135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_18
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1150
+        width: 361
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6eb5891647620c0800000000000000
+      internalID: -4600862006795573587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_19
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1152
+        width: 360
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34385883e228c4930800000000000000
+      internalID: 4128818093420282691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_20
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1150
+        width: 359
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02982a203f31dd310800000000000000
+      internalID: 1431322191015872800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_21
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1150
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8605a3d2580ef550800000000000000
+      internalID: 6196399289139529358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_22
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1150
+        width: 358
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7387d91da9dc000800000000000000
+      internalID: 57872595306428396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_23
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 1150
+        width: 358
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c5eae92ee273850800000000000000
+      internalID: 6356600949916458067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_24
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 1151
+        width: 359
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e204130fb7e22cd0800000000000000
+      internalID: -2584248428580830493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_25
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 1152
+        width: 359
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd058bcc5c1bbde0800000000000000
+      internalID: -1316427281198674433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 766
+        width: 360
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2ebe01165c0abc0800000000000000
+      internalID: -3773799467050081600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 766
+        width: 361
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd5f7170499e7900800000000000000
+      internalID: 684152695468023237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_28
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 767
+        width: 360
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f1adf89152f5d50800000000000000
+      internalID: 6728137160032657284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_29
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 766
+        width: 361
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc91a3f5dea1b7aa0800000000000000
+      internalID: -6162302058319177268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_30
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 766
+        width: 361
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e3ba854c6b608d0800000000000000
+      internalID: -2880413957239390577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_31
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 767
+        width: 357
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be79b0e849f69b50800000000000000
+      internalID: 6599736395361255095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_32
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 767
+        width: 358
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddbe313bd98ec5f0800000000000000
+      internalID: -734498114697773608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_33
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 767
+        width: 359
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b042b6682db0185d0800000000000000
+      internalID: -3062153272809020405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_34
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 767
+        width: 359
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6320e46ef24dac410800000000000000
+      internalID: 1498243128246534710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_35
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 382
+        width: 356
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b8e74d6b2f29620800000000000000
+      internalID: 2779550787104050026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_36
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 382
+        width: 356
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68626c2d6e54bb330800000000000000
+      internalID: 3727649974260213382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_37
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 382
+        width: 357
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e52292dbe082270800000000000000
+      internalID: 8225840924993937041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_38
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 382
+        width: 359
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4475ce84e97de50800000000000000
+      internalID: 6834104995597993167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_39
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 382
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513209a9f990bc910800000000000000
+      internalID: 1858589852318049045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_40
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 382
+        width: 359
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcc6fa6328ecd930800000000000000
+      internalID: 4169462593854295249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_41
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 382
+        width: 358
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e375dc388e395ad30800000000000000
+      internalID: 4442119234323830590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_42
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 383
+        width: 359
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c61069a8afb43040800000000000000
+      internalID: 4626533448333399748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_43
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 384
+        width: 359
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ca9331d665157f0800000000000000
+      internalID: -625623846753817555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 360
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf6c7ad790f02810800000000000000
+      internalID: 1738653991161327543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_45
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 361
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16629d45b8dfa8e0800000000000000
+      internalID: -1679885862783785441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_46
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 0
+        width: 360
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d2e59e3df61f630800000000000000
+      internalID: 3959068503379422489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_47
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 0
+        width: 361
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed40f4c3a9f155d0800000000000000
+      internalID: -3075402588738269713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_48
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 0
+        width: 361
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411435d88b40e7750800000000000000
+      internalID: 6304481719056810260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_49
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 0
+        width: 357
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8562d7cca2d2760800000000000000
+      internalID: 7434645617619916966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_50
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 0
+        width: 358
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ed4bd6e706e3030800000000000000
+      internalID: 3476322058499317307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_51
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 0
+        width: 359
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6723305a7a6ff1260800000000000000
+      internalID: 7070641139883389558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clorfos3_52
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 0
+        width: 359
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6610e7b90542c10800000000000000
+      internalID: 2027834360987739878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Clorfos3_0: -638487567531368362
+      Clorfos3_1: -3896315084167972652
+      Clorfos3_10: 3424850132438842899
+      Clorfos3_11: -400090536093760737
+      Clorfos3_12: -6852522310174059876
+      Clorfos3_13: 3762332186689275286
+      Clorfos3_14: -1802166308822758912
+      Clorfos3_15: 5214670771659677467
+      Clorfos3_16: -1563394289068225657
+      Clorfos3_17: 3325546589511135135
+      Clorfos3_18: -4600862006795573587
+      Clorfos3_19: 4128818093420282691
+      Clorfos3_2: -8611492394673108359
+      Clorfos3_20: 1431322191015872800
+      Clorfos3_21: 6196399289139529358
+      Clorfos3_22: 57872595306428396
+      Clorfos3_23: 6356600949916458067
+      Clorfos3_24: -2584248428580830493
+      Clorfos3_25: -1316427281198674433
+      Clorfos3_26: -3773799467050081600
+      Clorfos3_27: 684152695468023237
+      Clorfos3_28: 6728137160032657284
+      Clorfos3_29: -6162302058319177268
+      Clorfos3_3: 4690515041633351120
+      Clorfos3_30: -2880413957239390577
+      Clorfos3_31: 6599736395361255095
+      Clorfos3_32: -734498114697773608
+      Clorfos3_33: -3062153272809020405
+      Clorfos3_34: 1498243128246534710
+      Clorfos3_35: 2779550787104050026
+      Clorfos3_36: 3727649974260213382
+      Clorfos3_37: 8225840924993937041
+      Clorfos3_38: 6834104995597993167
+      Clorfos3_39: 1858589852318049045
+      Clorfos3_4: 934837948164129432
+      Clorfos3_40: 4169462593854295249
+      Clorfos3_41: 4442119234323830590
+      Clorfos3_42: 4626533448333399748
+      Clorfos3_43: -625623846753817555
+      Clorfos3_44: 1738653991161327543
+      Clorfos3_45: -1679885862783785441
+      Clorfos3_46: 3959068503379422489
+      Clorfos3_47: -3075402588738269713
+      Clorfos3_48: 6304481719056810260
+      Clorfos3_49: 7434645617619916966
+      Clorfos3_5: 6578946476439922991
+      Clorfos3_50: 3476322058499317307
+      Clorfos3_51: 7070641139883389558
+      Clorfos3_52: 2027834360987739878
+      Clorfos3_6: -8968835350374603774
+      Clorfos3_7: -4386633956945595774
+      Clorfos3_8: 7704077301087908974
+      Clorfos3_9: -1480142583048017433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1477 @@
+fileFormatVersion: 2
+guid: af89cf666917eb14b8fefa00cb4096d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2960047838469229556
+    second: Alfadriel_0
+  - first:
+      213: -2633630881557070502
+    second: Alfadriel_1
+  - first:
+      213: 1550349287872889096
+    second: Alfadriel_2
+  - first:
+      213: -3592005466903392246
+    second: Alfadriel_3
+  - first:
+      213: 2934985284314337048
+    second: Alfadriel_4
+  - first:
+      213: 6660852231642753517
+    second: Alfadriel_5
+  - first:
+      213: -5480917924086059151
+    second: Alfadriel_6
+  - first:
+      213: -1754258633839480517
+    second: Alfadriel_7
+  - first:
+      213: -5280524893925741104
+    second: Alfadriel_8
+  - first:
+      213: -4983631420732346521
+    second: Alfadriel_9
+  - first:
+      213: -1075826776602887167
+    second: Alfadriel_10
+  - first:
+      213: 3816727918853429485
+    second: Alfadriel_11
+  - first:
+      213: -264312659138767318
+    second: Alfadriel_12
+  - first:
+      213: -1963822574952232538
+    second: Alfadriel_13
+  - first:
+      213: -258691960345742049
+    second: Alfadriel_14
+  - first:
+      213: -7724462234598151894
+    second: Alfadriel_15
+  - first:
+      213: -6988513059072487369
+    second: Alfadriel_16
+  - first:
+      213: -5233492964369410267
+    second: Alfadriel_17
+  - first:
+      213: 4167135816857103733
+    second: Alfadriel_18
+  - first:
+      213: -2128960609829891881
+    second: Alfadriel_19
+  - first:
+      213: -2703448290033807653
+    second: Alfadriel_20
+  - first:
+      213: 3317860866954737469
+    second: Alfadriel_21
+  - first:
+      213: 319184712481446253
+    second: Alfadriel_22
+  - first:
+      213: -6297437869513639913
+    second: Alfadriel_23
+  - first:
+      213: 4710508893953295476
+    second: Alfadriel_24
+  - first:
+      213: -5570529708759610438
+    second: Alfadriel_25
+  - first:
+      213: 300626869679262216
+    second: Alfadriel_26
+  - first:
+      213: 3099613700811620813
+    second: Alfadriel_27
+  - first:
+      213: 3121447702007640568
+    second: Alfadriel_28
+  - first:
+      213: 6365298937800952652
+    second: Alfadriel_29
+  - first:
+      213: -6339605352553310565
+    second: Alfadriel_30
+  - first:
+      213: 3400914694898726503
+    second: Alfadriel_31
+  - first:
+      213: 3190556209719667085
+    second: Alfadriel_32
+  - first:
+      213: -5157818773335045615
+    second: Alfadriel_33
+  - first:
+      213: 7735641434004638841
+    second: Alfadriel_34
+  - first:
+      213: 1735544138109807461
+    second: Alfadriel_35
+  - first:
+      213: -409098081142055730
+    second: Alfadriel_36
+  - first:
+      213: 7442779999002234230
+    second: Alfadriel_37
+  - first:
+      213: 7982128436328629086
+    second: Alfadriel_38
+  - first:
+      213: -9062123153856915185
+    second: Alfadriel_39
+  - first:
+      213: 3292095319832796831
+    second: Alfadriel_40
+  - first:
+      213: 8944344080173533673
+    second: Alfadriel_41
+  - first:
+      213: 5706375541840285638
+    second: Alfadriel_42
+  - first:
+      213: -2222021581914918660
+    second: Alfadriel_43
+  - first:
+      213: -5322012050079052883
+    second: Alfadriel_44
+  - first:
+      213: 6139447669660904399
+    second: Alfadriel_45
+  - first:
+      213: 8513563191809461346
+    second: Alfadriel_46
+  - first:
+      213: -5049569705844928289
+    second: Alfadriel_47
+  - first:
+      213: 330363678435789691
+    second: Alfadriel_48
+  - first:
+      213: -6007760257175400522
+    second: Alfadriel_49
+  - first:
+      213: 6527900113121789479
+    second: Alfadriel_50
+  - first:
+      213: -1011060419947051573
+    second: Alfadriel_51
+  - first:
+      213: -8168797528728433668
+    second: Alfadriel_52
+  - first:
+      213: 6492885745843979501
+    second: Alfadriel_53
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alfadriel_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2558
+        width: 495
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04f0e58c2ccbe6d0800000000000000
+      internalID: -2960047838469229556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_1
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2558
+        width: 497
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dba43baa6737bd0800000000000000
+      internalID: -2633630881557070502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_2
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2558
+        width: 498
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80181759672f38510800000000000000
+      internalID: 1550349287872889096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_3
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 2558
+        width: 499
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0056f12f02a62ec0800000000000000
+      internalID: -3592005466903392246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_4
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 2571
+        width: 470
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f0e8cd0992bb820800000000000000
+      internalID: 2934985284314337048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_5
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 2571
+        width: 468
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de92f6060d9107c50800000000000000
+      internalID: 6660852231642753517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_6
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 2558
+        width: 470
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f67cbef2edfe3b0800000000000000
+      internalID: -5480917924086059151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_7
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 2558
+        width: 470
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31f5d5211f97a7e0800000000000000
+      internalID: -1754258633839480517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_8
+      rect:
+        serializedVersion: 2
+        x: 4117
+        y: 2558
+        width: 470
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dde2fd169ec7b6b0800000000000000
+      internalID: -5280524893925741104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2046
+        width: 495
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fe5c390a596dab0800000000000000
+      internalID: -4983631420732346521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_10
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2047
+        width: 497
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c3bb42f35e111f0800000000000000
+      internalID: -1075826776602887167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_11
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2047
+        width: 498
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8139ff1ddb7f430800000000000000
+      internalID: 3816727918853429485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_12
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 2047
+        width: 499
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2615627909f45cf0800000000000000
+      internalID: -264312659138767318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_13
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 2045
+        width: 470
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9441ad5c91fb4e0800000000000000
+      internalID: -1963822574952232538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_14
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 2046
+        width: 468
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15b75d5801f86cf0800000000000000
+      internalID: -258691960345742049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_15
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 2045
+        width: 495
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a296bd906823dc490800000000000000
+      internalID: -7724462234598151894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_16
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 2047
+        width: 497
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7305ec54660d30f90800000000000000
+      internalID: -6988513059072487369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_17
+      rect:
+        serializedVersion: 2
+        x: 4103
+        y: 2047
+        width: 499
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527514c80e5ee57b0800000000000000
+      internalID: -5233492964369410267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1534
+        width: 495
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d239e62f3a4d930800000000000000
+      internalID: 4167135816857103733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_19
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1534
+        width: 497
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d05a46ea996472e0800000000000000
+      internalID: -2128960609829891881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_20
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1534
+        width: 498
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdec5eb8a1c6b7ad0800000000000000
+      internalID: -2703448290033807653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_21
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1534
+        width: 499
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37b10531e86b0e20800000000000000
+      internalID: 3317860866954737469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_22
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1534
+        width: 470
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69113d0ec8fd6400800000000000000
+      internalID: 319184712481446253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_23
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 1534
+        width: 468
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718fb887f910b98a0800000000000000
+      internalID: -6297437869513639913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_24
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 1534
+        width: 475
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4748767b1e61f5140800000000000000
+      internalID: 4710508893953295476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_25
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 1534
+        width: 477
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb8f9a6eb081b2b0800000000000000
+      internalID: -5570529708759610438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_26
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 1534
+        width: 476
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a8b219b8a0c2400800000000000000
+      internalID: 300626869679262216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1022
+        width: 495
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc18fc90d3a040b20800000000000000
+      internalID: 3099613700811620813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_28
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1023
+        width: 497
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1ff17952c915b20800000000000000
+      internalID: 3121447702007640568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_29
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1023
+        width: 498
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b0cccb8a5165850800000000000000
+      internalID: 6365298937800952652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_30
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1022
+        width: 495
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9615e045823508a0800000000000000
+      internalID: -6339605352553310565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_31
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1022
+        width: 494
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76638dc65e9723f20800000000000000
+      internalID: 3400914694898726503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_32
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1021
+        width: 492
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89e14ce7f1274c20800000000000000
+      internalID: 3190556209719667085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_33
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 1022
+        width: 475
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a0687272fbb68b0800000000000000
+      internalID: -5157818773335045615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_34
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 1023
+        width: 477
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cc3a726e48a5b60800000000000000
+      internalID: 7735641434004638841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_35
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 1023
+        width: 476
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56beb04c234e51810800000000000000
+      internalID: 1735544138109807461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 510
+        width: 511
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccdb337677925af0800000000000000
+      internalID: -409098081142055730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 510
+        width: 511
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d09edb9f01a4760800000000000000
+      internalID: 7442779999002234230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_38
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 510
+        width: 511
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5389ee858736ce60800000000000000
+      internalID: 7982128436328629086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_39
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 510
+        width: 494
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f091487310fdc3280800000000000000
+      internalID: -9062123153856915185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_40
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 510
+        width: 494
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e1c59404fdfad20800000000000000
+      internalID: 3292095319832796831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_41
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 510
+        width: 492
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e98c9f3d81b02c70800000000000000
+      internalID: 8944344080173533673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_42
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 510
+        width: 475
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf0e56525e113f40800000000000000
+      internalID: 5706375541840285638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_43
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 510
+        width: 477
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0b5bed42bc921e0800000000000000
+      internalID: -2222021581914918660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_44
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 510
+        width: 476
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab80b8dc3a6426b0800000000000000
+      internalID: -5322012050079052883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_45
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 471
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbec3b9023b33550800000000000000
+      internalID: 6139447669660904399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_46
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 469
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cc4acbd90462670800000000000000
+      internalID: 8513563191809461346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_47
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 0
+        width: 470
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd01a863b135ce9b0800000000000000
+      internalID: -5049569705844928289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_48
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 30
+        width: 494
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b4bd3e300b59400800000000000000
+      internalID: 330363678435789691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_49
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 30
+        width: 494
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfc95760e520aca0800000000000000
+      internalID: -6007760257175400522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_50
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 30
+        width: 492
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7264bdb0192c79a50800000000000000
+      internalID: 6527900113121789479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_51
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 0
+        width: 475
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc54996a7edf7f1f0800000000000000
+      internalID: -1011060419947051573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_52
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 0
+        width: 477
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb8d028de992ae80800000000000000
+      internalID: -8168797528728433668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfadriel_53
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 0
+        width: 476
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de44a306f2d5b1a50800000000000000
+      internalID: 6492885745843979501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Alfadriel_0: -2960047838469229556
+      Alfadriel_1: -2633630881557070502
+      Alfadriel_10: -1075826776602887167
+      Alfadriel_11: 3816727918853429485
+      Alfadriel_12: -264312659138767318
+      Alfadriel_13: -1963822574952232538
+      Alfadriel_14: -258691960345742049
+      Alfadriel_15: -7724462234598151894
+      Alfadriel_16: -6988513059072487369
+      Alfadriel_17: -5233492964369410267
+      Alfadriel_18: 4167135816857103733
+      Alfadriel_19: -2128960609829891881
+      Alfadriel_2: 1550349287872889096
+      Alfadriel_20: -2703448290033807653
+      Alfadriel_21: 3317860866954737469
+      Alfadriel_22: 319184712481446253
+      Alfadriel_23: -6297437869513639913
+      Alfadriel_24: 4710508893953295476
+      Alfadriel_25: -5570529708759610438
+      Alfadriel_26: 300626869679262216
+      Alfadriel_27: 3099613700811620813
+      Alfadriel_28: 3121447702007640568
+      Alfadriel_29: 6365298937800952652
+      Alfadriel_3: -3592005466903392246
+      Alfadriel_30: -6339605352553310565
+      Alfadriel_31: 3400914694898726503
+      Alfadriel_32: 3190556209719667085
+      Alfadriel_33: -5157818773335045615
+      Alfadriel_34: 7735641434004638841
+      Alfadriel_35: 1735544138109807461
+      Alfadriel_36: -409098081142055730
+      Alfadriel_37: 7442779999002234230
+      Alfadriel_38: 7982128436328629086
+      Alfadriel_39: -9062123153856915185
+      Alfadriel_4: 2934985284314337048
+      Alfadriel_40: 3292095319832796831
+      Alfadriel_41: 8944344080173533673
+      Alfadriel_42: 5706375541840285638
+      Alfadriel_43: -2222021581914918660
+      Alfadriel_44: -5322012050079052883
+      Alfadriel_45: 6139447669660904399
+      Alfadriel_46: 8513563191809461346
+      Alfadriel_47: -5049569705844928289
+      Alfadriel_48: 330363678435789691
+      Alfadriel_49: -6007760257175400522
+      Alfadriel_5: 6660852231642753517
+      Alfadriel_50: 6527900113121789479
+      Alfadriel_51: -1011060419947051573
+      Alfadriel_52: -8168797528728433668
+      Alfadriel_53: 6492885745843979501
+      Alfadriel_6: -5480917924086059151
+      Alfadriel_7: -1754258633839480517
+      Alfadriel_8: -5280524893925741104
+      Alfadriel_9: -4983631420732346521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1477 @@
+fileFormatVersion: 2
+guid: 0f98ea118830138439bd15ecfc9a7d0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7681107752974681677
+    second: Arriette_0
+  - first:
+      213: 4051147362329601621
+    second: Arriette_1
+  - first:
+      213: 3376335276821755661
+    second: Arriette_2
+  - first:
+      213: 5488079436350649512
+    second: Arriette_3
+  - first:
+      213: -8255579949101858405
+    second: Arriette_4
+  - first:
+      213: -2695016208731011586
+    second: Arriette_5
+  - first:
+      213: -5701251434415919431
+    second: Arriette_6
+  - first:
+      213: 247749168915091523
+    second: Arriette_7
+  - first:
+      213: 828872947959357764
+    second: Arriette_8
+  - first:
+      213: -3563909310438037318
+    second: Arriette_9
+  - first:
+      213: -2260505356910785653
+    second: Arriette_10
+  - first:
+      213: 4902208382007094453
+    second: Arriette_11
+  - first:
+      213: 3268563514056624851
+    second: Arriette_12
+  - first:
+      213: 8169425769988506876
+    second: Arriette_13
+  - first:
+      213: 6269906701385234256
+    second: Arriette_14
+  - first:
+      213: -6059472516029365059
+    second: Arriette_15
+  - first:
+      213: 6841217995725285277
+    second: Arriette_16
+  - first:
+      213: 6825113706237898545
+    second: Arriette_17
+  - first:
+      213: -4589461454311682827
+    second: Arriette_18
+  - first:
+      213: -993925125241804019
+    second: Arriette_19
+  - first:
+      213: 1740798419573163820
+    second: Arriette_20
+  - first:
+      213: -4071069208324363738
+    second: Arriette_21
+  - first:
+      213: -1600915057268792860
+    second: Arriette_22
+  - first:
+      213: 4159483411637443739
+    second: Arriette_23
+  - first:
+      213: -1373737967599155569
+    second: Arriette_24
+  - first:
+      213: 852024520500599588
+    second: Arriette_25
+  - first:
+      213: 5403988410143920531
+    second: Arriette_26
+  - first:
+      213: 1597173465595010688
+    second: Arriette_27
+  - first:
+      213: 3926902722100719590
+    second: Arriette_28
+  - first:
+      213: -2646731725876955951
+    second: Arriette_29
+  - first:
+      213: 6979347844526034220
+    second: Arriette_30
+  - first:
+      213: 1503369704215491589
+    second: Arriette_31
+  - first:
+      213: -1199574642719824369
+    second: Arriette_32
+  - first:
+      213: 6178127053804027067
+    second: Arriette_33
+  - first:
+      213: 4617251745056929524
+    second: Arriette_34
+  - first:
+      213: 3481882854266095677
+    second: Arriette_35
+  - first:
+      213: 411252577083380942
+    second: Arriette_36
+  - first:
+      213: -4445408111005956546
+    second: Arriette_37
+  - first:
+      213: 2895677945695539138
+    second: Arriette_38
+  - first:
+      213: -4120740184386322123
+    second: Arriette_39
+  - first:
+      213: 4345586356024373476
+    second: Arriette_40
+  - first:
+      213: -4617293742651178645
+    second: Arriette_41
+  - first:
+      213: 8646704141474015258
+    second: Arriette_42
+  - first:
+      213: 1578784639797674880
+    second: Arriette_43
+  - first:
+      213: 8189768968102932395
+    second: Arriette_44
+  - first:
+      213: 6250252759019064363
+    second: Arriette_45
+  - first:
+      213: 8787646825114905102
+    second: Arriette_46
+  - first:
+      213: -3957159294066103545
+    second: Arriette_47
+  - first:
+      213: -4124053205224532447
+    second: Arriette_48
+  - first:
+      213: -4018321109640041413
+    second: Arriette_49
+  - first:
+      213: -6621616480212762416
+    second: Arriette_50
+  - first:
+      213: -7796994481358366702
+    second: Arriette_51
+  - first:
+      213: 4440944336192026264
+    second: Arriette_52
+  - first:
+      213: -1611679410060935885
+    second: Arriette_53
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arriette_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1918
+        width: 334
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9f176e139376590800000000000000
+      internalID: -7681107752974681677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1918
+        width: 336
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556aa68ef01983830800000000000000
+      internalID: 4051147362329601621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_2
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1918
+        width: 336
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07b491bb072bde20800000000000000
+      internalID: 3376335276821755661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_3
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1918
+        width: 338
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a47ec69b23992c40800000000000000
+      internalID: 5488079436350649512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_4
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1918
+        width: 367
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9142f6b6c94e6d80800000000000000
+      internalID: -8255579949101858405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_5
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1918
+        width: 363
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef50ba67901699ad0800000000000000
+      internalID: -2695016208731011586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_6
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 1918
+        width: 331
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bee374e60611e0b0800000000000000
+      internalID: -5701251434415919431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_7
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 1918
+        width: 331
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34015967e8e207300800000000000000
+      internalID: 247749168915091523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_8
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 1918
+        width: 331
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4416c0bfd8fb08b00800000000000000
+      internalID: 828872947959357764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1534
+        width: 338
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab822a35d537a8ec0800000000000000
+      internalID: -3563909310438037318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1534
+        width: 340
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b0774ca5211a0e0800000000000000
+      internalID: -2260505356910785653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_11
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1534
+        width: 338
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bca978ec84280440800000000000000
+      internalID: 4902208382007094453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_12
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1534
+        width: 338
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dac52dc2354c5d20800000000000000
+      internalID: 3268563514056624851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_13
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1534
+        width: 357
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4461f4471af5170800000000000000
+      internalID: 8169425769988506876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_14
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1534
+        width: 347
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05778eeecee230750800000000000000
+      internalID: 6269906701385234256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_15
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1534
+        width: 338
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4c3d3e9dd68eba0800000000000000
+      internalID: -6059472516029365059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_16
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 1534
+        width: 339
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9727325583e0fe50800000000000000
+      internalID: 6841217995725285277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_17
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 1534
+        width: 340
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fa5fb31cca7be50800000000000000
+      internalID: 6825113706237898545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1150
+        width: 338
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc87619f15fe40c0800000000000000
+      internalID: -4589461454311682827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1150
+        width: 340
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b60a85d5ed432f0800000000000000
+      internalID: -993925125241804019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_20
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1150
+        width: 338
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27483080fe882810800000000000000
+      internalID: 1740798419573163820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_21
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1150
+        width: 337
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aabcddf18a087c0800000000000000
+      internalID: -4071069208324363738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_22
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1150
+        width: 386
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e16be7cc3868c9e0800000000000000
+      internalID: -1600915057268792860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_23
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1150
+        width: 381
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c97cfff1479b930800000000000000
+      internalID: 4159483411637443739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_24
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1150
+        width: 331
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8609cac8908fece0800000000000000
+      internalID: -1373737967599155569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_25
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 1150
+        width: 332
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b5c5489cff2db00800000000000000
+      internalID: 852024520500599588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_26
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 1150
+        width: 331
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391d4f4d3d2defa40800000000000000
+      internalID: 5403988410143920531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_27
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 766
+        width: 334
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e58750ecc4a2610800000000000000
+      internalID: 1597173465595010688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_28
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 766
+        width: 336
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efe35a58392f7630800000000000000
+      internalID: 3926902722100719590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_29
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 766
+        width: 336
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4f85fa48be44bd0800000000000000
+      internalID: -2646731725876955951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_30
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 766
+        width: 337
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dccdce2ef9bd060800000000000000
+      internalID: 6979347844526034220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_31
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 766
+        width: 381
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50439d1e7ca0dd410800000000000000
+      internalID: 1503369704215491589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_32
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 766
+        width: 380
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f066e13d7314a5fe0800000000000000
+      internalID: -1199574642719824369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_33
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 766
+        width: 331
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc383382dd1db550800000000000000
+      internalID: 6178127053804027067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_34
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 766
+        width: 332
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6bba6bff5c31040800000000000000
+      internalID: 4617251745056929524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_35
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 766
+        width: 331
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38cd061202225030800000000000000
+      internalID: 3481882854266095677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_36
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 382
+        width: 331
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4d40a3a0015b500800000000000000
+      internalID: 411252577083380942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_37
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 382
+        width: 330
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3689d530ecbe42c0800000000000000
+      internalID: -4445408111005956546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_38
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 382
+        width: 330
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf8d19efb38f2820800000000000000
+      internalID: 2895677945695539138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 382
+        width: 337
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531c9f982a030d6c0800000000000000
+      internalID: -4120740184386322123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_40
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 382
+        width: 381
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0fd9354cf9e4c30800000000000000
+      internalID: 4345586356024373476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_41
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 382
+        width: 380
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6184a5fdc31cefb0800000000000000
+      internalID: -4617293742651178645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_42
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 382
+        width: 331
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18257eba934ff770800000000000000
+      internalID: 8646704141474015258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_43
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 382
+        width: 332
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083cbffd348f8e510800000000000000
+      internalID: 1578784639797674880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_44
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 382
+        width: 331
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafea483c77e7a170800000000000000
+      internalID: 8189768968102932395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 331
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c8cb1e4cb5db650800000000000000
+      internalID: 6250252759019064363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_46
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 330
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a209e7a3ef3f970800000000000000
+      internalID: 8787646825114905102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_47
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 0
+        width: 330
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bed8586985519c0800000000000000
+      internalID: -3957159294066103545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_48
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 0
+        width: 338
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126d7c3c57b64c6c0800000000000000
+      internalID: -4124053205224532447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_49
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 0
+        width: 347
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ca372ad3e0c38c0800000000000000
+      internalID: -4018321109640041413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_50
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 0
+        width: 347
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0cb02e4ea4b14a0800000000000000
+      internalID: -6621616480212762416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_51
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 0
+        width: 331
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21814f654d28bc390800000000000000
+      internalID: -7796994481358366702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_52
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 0
+        width: 332
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896320a385761ad30800000000000000
+      internalID: 4440944336192026264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arriette_53
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 0
+        width: 331
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33db1879d1a22a9e0800000000000000
+      internalID: -1611679410060935885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arriette_0: -7681107752974681677
+      Arriette_1: 4051147362329601621
+      Arriette_10: -2260505356910785653
+      Arriette_11: 4902208382007094453
+      Arriette_12: 3268563514056624851
+      Arriette_13: 8169425769988506876
+      Arriette_14: 6269906701385234256
+      Arriette_15: -6059472516029365059
+      Arriette_16: 6841217995725285277
+      Arriette_17: 6825113706237898545
+      Arriette_18: -4589461454311682827
+      Arriette_19: -993925125241804019
+      Arriette_2: 3376335276821755661
+      Arriette_20: 1740798419573163820
+      Arriette_21: -4071069208324363738
+      Arriette_22: -1600915057268792860
+      Arriette_23: 4159483411637443739
+      Arriette_24: -1373737967599155569
+      Arriette_25: 852024520500599588
+      Arriette_26: 5403988410143920531
+      Arriette_27: 1597173465595010688
+      Arriette_28: 3926902722100719590
+      Arriette_29: -2646731725876955951
+      Arriette_3: 5488079436350649512
+      Arriette_30: 6979347844526034220
+      Arriette_31: 1503369704215491589
+      Arriette_32: -1199574642719824369
+      Arriette_33: 6178127053804027067
+      Arriette_34: 4617251745056929524
+      Arriette_35: 3481882854266095677
+      Arriette_36: 411252577083380942
+      Arriette_37: -4445408111005956546
+      Arriette_38: 2895677945695539138
+      Arriette_39: -4120740184386322123
+      Arriette_4: -8255579949101858405
+      Arriette_40: 4345586356024373476
+      Arriette_41: -4617293742651178645
+      Arriette_42: 8646704141474015258
+      Arriette_43: 1578784639797674880
+      Arriette_44: 8189768968102932395
+      Arriette_45: 6250252759019064363
+      Arriette_46: 8787646825114905102
+      Arriette_47: -3957159294066103545
+      Arriette_48: -4124053205224532447
+      Arriette_49: -4018321109640041413
+      Arriette_5: -2695016208731011586
+      Arriette_50: -6621616480212762416
+      Arriette_51: -7796994481358366702
+      Arriette_52: 4440944336192026264
+      Arriette_53: -1611679410060935885
+      Arriette_6: -5701251434415919431
+      Arriette_7: 247749168915091523
+      Arriette_8: 828872947959357764
+      Arriette_9: -3563909310438037318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
